@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    background-color: burlywood;
+text-align: center;
+}
+
+p {
+    font-family: cursive;
+    font-size: 30px;
+    color: aqua;
+}
+
+.links {
+    float: left;
+    color: cornflowerblue;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: blanchedalmond;
+    font-family: cursive;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color:darkorchid; 
+}
+html{
+    scroll-behavior: smooth;
+}
